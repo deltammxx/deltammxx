@@ -49,7 +49,6 @@
 - ✅ Active Public Trust Security Clearance
 - 📚 Agile/Scrum methodology
 - 📚 Systems thinking and process optimization
-- 📚 Industrial & Systems Engineering principles
 
 ## Want to Learn Next 🎯
 
