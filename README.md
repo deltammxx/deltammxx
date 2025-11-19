@@ -108,7 +108,7 @@ I'm always excited to discuss:
 **Looking for opportunities to blend customer empathy with technical problem-solving!**
 
 [![Email](https://img.shields.io/badge/Email-davidapetrulis@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidapetrulis@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/davidpetrulis)
 
 </div>
 
