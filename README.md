@@ -49,16 +49,28 @@ david = {
 ## 🛠️ Tech Stack & Skills
 
 ### Core Technologies
-![Oracle](https://img.shields.io/badge/Oracle_EPM-1e3a8a?style=for-the-badge&logo=oracle&logoColor=white)
-![Python](https://img.shields.io/badge/Python-2563eb?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-3b82f6?style=for-the-badge&logo=postgresql&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-60a5fa?style=for-the-badge&logo=powershell&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-0ea5e9?style=for-the-badge&logo=fastapi&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle_EPM-2E86AB?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/Python-3B94BB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4A9EC4?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PowerShell-5FAFD8?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/REST_API-236A89?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+</p>
+
+<div align="center">
+  <a href="./technologies.md">
+    <img src="https://img.shields.io/badge/🔧_View_Full_Tech_Stack-2E86AB?style=for-the-badge&logoColor=white" alt="View Full Tech Stack" style="border-radius: 50px;" />
+  </a>
+</div>
+
+<br>
 
 ### Methodologies & Certifications
-![Scrum](https://img.shields.io/badge/Certified_Scrum_Master-0891b2?style=for-the-badge)
-![Demo2Win](https://img.shields.io/badge/Demo2Win_Certified-0e7490?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile-06b6d4?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Certified_Scrum_Master-0891b2?style=for-the-badge" alt="Certified Scrum Master" />
+  <img src="https://img.shields.io/badge/Demo2Win_Certified-0e7490?style=for-the-badge" alt="Demo2Win Certified" />
+  <img src="https://img.shields.io/badge/Agile-06b6d4?style=for-the-badge" alt="Agile" />
+</p>
 
 ---
 
@@ -75,12 +87,6 @@ david = {
 
 ---
 
-## 💭 My Approach
-
-> *"I’m passionate about using technology in ways that genuinely support people. By blending analytical thinking with empathy, I focus on creating solutions that reduce friction, improve clarity, and scale thoughtfully. Systems-thinking helps me bridge the gap between technical complexity and human experience."*
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always interested in chatting about:
@@ -88,7 +94,6 @@ I'm always interested in chatting about:
 - 🔧 **API integrations** and modern automation
 - 🧠 **Systems thinking** in practice
 - 🌈 **DEIB initiatives** that actually work
-- 🚀 Making enterprise software less painful
 
 ---
 
