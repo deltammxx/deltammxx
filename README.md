@@ -21,13 +21,17 @@
 ---
 
 ## 🚀 About Me
-Pronouns: he/him
+📍 **Pronouns:** he/him | **Location:** Washington, D.C.
 
-I'm a technology consultant based in **Washington, D.C.** who loves solving messy problems, designing clean data flows, and helping teams adopt tools that make their lives easier.
+I help organizations solve messy technical problems through clean data flows and workflow automation—currently working with Oracle EPM Cloud systems for federal agencies.
 
-I care a lot about leadership, DEIB, and creating workplaces that feel good to be part of. I also love science museums, cooking adobo, and learning Spanish.
+I'm passionate about leadership, DEIB, and building teams where people do their best work. Outside of tech, you'll find me exploring science museums, perfecting my adobo recipe, or practicing Spanish.
 
-If you're into tech, consulting, or just want to talk about building better teams, let’s connect!
+<div align="center">
+  
+**Actively seeking Solution Engineering opportunities** with innovative SaaS/AI companies. If you're building tools that solve real problems, let's connect!
+
+</div>
 
 ---
 
@@ -50,11 +54,11 @@ david = {
 
 ### Core Technologies
 <p align="center">
-  <img src="https://img.shields.io/badge/Oracle_EPM-2E86AB?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/Python-3B94BB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4A9EC4?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/PowerShell-5FAFD8?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/REST_API-236A89?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Oracle_EPM_Cloud-2E86AB?style=for-the-badge" alt="Oracle EPM" />
+  <img src="https://img.shields.io/badge/Python-3B94BB?style=for-the-badge" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4A9EC4?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/PowerShell-5FAFD8?style=for-the-badge" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/REST_API-236A89?style=for-the-badge" alt="REST API" />
 </p>
 
 <div align="center">
@@ -89,11 +93,11 @@ david = {
 
 ## 🤝 Let's Connect!
 
-I'm always interested in chatting about:
-- 🎯 **Solution Engineering** and creative technical demos
-- 🔧 **API integrations** and modern automation
-- 🧠 **Systems thinking** in practice
-- 🌈 **DEIB initiatives** that actually work
+I'm always excited to discuss:
+- 🎯 **Solution Engineering roles** at innovative SaaS/AI companies
+- 🔧 **API integrations** that eliminate manual work
+- 🧠 **Systems thinking** applied to real-world challenges
+- 🌈 **DEIB initiatives** that create lasting cultural change
 
 ---
 
@@ -101,14 +105,15 @@ I'm always interested in chatting about:
   
 ### 📬 Reach Out
   
-**I'm always looking for opportunities where I can intertwine interpersonal skills with technical acumen!**
+**Looking for opportunities to blend customer empathy with technical problem-solving!**
 
-[![Email Me](https://img.shields.io/badge/Email_Me-davidapetrulis@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidapetrulis@gmail.com)
+[![Email](https://img.shields.io/badge/Email-davidapetrulis@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davidapetrulis@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E86AB&height=100&section=footer&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E86AB&height=120&section=footer" />
 </div>
