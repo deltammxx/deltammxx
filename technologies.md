@@ -1,6 +1,6 @@
 # Technologies & Tools 🛠️
 
-## Currently Using
+## Currently Using 📌 
 
 ### Data & Integration
 - [Oracle EPM Cloud](https://www.oracle.com/performance-management/) - Financial planning, budgeting, and consolidation
@@ -37,12 +37,12 @@
 - [GitHub Actions](https://github.com/features/actions) - CI/CD and automation
 - [Anthropic Claude API](https://docs.anthropic.com/) - AI integration and prompt engineering
 
-## Past Experience
+## Past Experience ⌛
 
 - [DocuSign CLM](https://www.docusign.com/products/clm) - Contract lifecycle management and agreement automation
 - [Salesforce](https://www.salesforce.com/) - CRM configuration and basic administration
 
-## Certifications & Methodologies
+## Certifications & Methodologies🏅
 
 - ✅ Certified Scrum Master (CSM)
 - ✅ [Demo2Win](https://demo2win.com/) - Technical storytelling and demonstration excellence
