@@ -29,7 +29,7 @@ I'm passionate about leadership, DEIB, and building teams where people do their 
 
 <div align="center">
   
-**Actively seeking Solution Engineering opportunities** with innovative SaaS/AI companies. If you're building tools that solve real problems, let's connect!
+**Actively seeking customer-facing, technical opportunities** with innovative SaaS/AI companies. If you're building tools that solve real problems, let's connect!
 
 </div>
 
