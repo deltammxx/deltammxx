@@ -41,7 +41,7 @@ I'm actively building my GitHub portfolio while deepening my expertise in REST A
 
 **Open to collaborate on:** Demo environments, API projects, and technical presentations that showcase innovative solutions.
 
-**Ask me about:** Implementing DEIB initiatives that actually work, applying systems thinking to complex problems, or transforming team dynamics through organizational development.
+**Ask me about:** Implementing DEIB initiatives that work, applying systems-thinking to complex problems, or transforming team dynamics through organizational development.
 
 **Fun fact:** I can pronounce "Pinakanakapagpapabagabag-damdamin" (the longest word in Tagalog) and I'm currently learning Spanish!
 
