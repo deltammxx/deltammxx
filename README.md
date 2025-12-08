@@ -35,20 +35,15 @@ I'm passionate about leadership, DEIB, and building teams where people do their 
 
 ---
 
-## 🎯 What I'm Up To
+## 🎯 Current Focus
 
-```python
-david = {
-    "currently_working_on": ["GitHub portfolio", "REST APIs", "AI integration", "Batch script automation"],
-    "currently_learning": ["REST API integrations", "Prompt engineering", "Modern SaaS tools"],
-    "looking_to_collaborate": ["Demo environments", "API projects", "Technical presentations"],
-    "seeking_help_with": ["GitHub profile enhancement", "Showcasing enterprise experience"],
-    "ask_me_about": ["DEIB initiatives", "Systems thinking", "Organizational development"],
-    "fun_fact": "Can pronounce 'Pinakanakapagpapabagabag-damdamin' and learning Spanish 🇪🇸"
-}
-```
+I'm actively building my GitHub portfolio while deepening my expertise in REST API integrations and modern SaaS tools. My goal is to bridge the gap between enterprise systems and cutting-edge technology solutions.
 
----
+**Open to collaborate on:** Demo environments, API projects, and technical presentations that showcase innovative solutions.
+
+**Ask me about:** Implementing DEIB initiatives that actually work, applying systems thinking to complex problems, or transforming team dynamics through organizational development.
+
+**Fun fact:** I can pronounce "Pinakanakapagpapabagabag-damdamin" (the longest word in Tagalog) and I'm currently learning Spanish!
 
 ## 🛠️ Tech Stack & Skills
 
