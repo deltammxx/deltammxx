@@ -76,12 +76,12 @@ I'm actively building my GitHub portfolio while deepening my expertise in REST A
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deltammxx&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2E86AB&icon_color=2E86AB&text_color=C9D1D9" alt="David's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=deltammxx&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2E86AB&icon_color=2E86AB&text_color=C9D1D9" alt="David's GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deltammxx&theme=react&hide_border=true&background=0D1117&stroke=2E86AB&ring=2E86AB&fire=FF6B6B&currStreakLabel=C9D1D9" alt="David's GitHub Streak" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deltammxx&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2E86AB&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=deltammxx&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2E86AB&text_color=C9D1D9" alt="Top Languages" />
 </div>
 
 ---
