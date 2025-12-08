@@ -2,7 +2,7 @@
   
 # Kumusta! I'm David! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Technology+Consultant;Oracle+EPM+Expert+|+ETL+Enthusiast;Making+Enterprise+Software+Less+Painful;Demo2Win+Certified+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Customer-Facing+Technical+Roles;Oracle+EPM+Consultant+|+ETL+Enthusiast;Making+Enterprise+Software+Less+Painful;Demo2Win+Certified+🚀" alt="Typing SVG" />
 
 <br>
 
@@ -23,13 +23,15 @@
 ## 🚀 About Me
 📍 **Pronouns:** he/him | **Location:** Washington, D.C.
 
-I help organizations solve messy technical problems through clean data flows and workflow automation—currently working with Oracle EPM Cloud systems for federal agencies.
+I help organizations solve messy technical problems through clean data flows and workflow automation. Currently working with Oracle EPM Cloud systems for federal agencies, but my heart is in customer-facing technical work where I can help people actually succeed with technology.
 
-I'm passionate about leadership, DEIB, and building teams where people do their best work. Outside of tech, you'll find me exploring science museums, perfecting my adobo recipe, or practicing Spanish.
+My formative professional experience was a Solution Engineering internship at DocuSign, where I ran discovery sessions, built custom demos, and worked with clients across education, nonprofits, and telecom. That's the kind of work I want to get back to: understanding pain points, designing solutions, and teaching people to fish rather than just handing them answers.
+
+I also care a lot about DEIB and building teams where people feel seen, valued, and heard. Outside of tech, you'll find me exploring science museums, perfecting my adobo recipe, or practicing Spanish.
 
 <div align="center">
   
-**Actively seeking customer-facing, technical opportunities** with innovative SaaS/AI companies. If you're building tools that solve real problems, let's connect!
+**Actively seeking customer-facing technical roles** (Solution Engineering, Customer Success Engineering, Implementation) at innovative SaaS/AI companies. If you're building tools that solve real problems, let's connect!
 
 </div>
 
@@ -37,11 +39,11 @@ I'm passionate about leadership, DEIB, and building teams where people do their 
 
 ## 🎯 Current Focus
 
-I'm actively building my GitHub portfolio while deepening my expertise in REST API integrations and modern SaaS tools. My goal is to bridge the gap between enterprise systems and cutting-edge technology solutions.
+I'm building my GitHub portfolio while deepening my expertise in REST API integrations and modern SaaS tools. My goal is to bridge my enterprise consulting background with the customer-facing work I love.
 
 **Open to collaborate on:** Demo environments, API projects, and technical presentations that showcase innovative solutions.
 
-**Ask me about:** Implementing DEIB initiatives that work, applying systems-thinking to complex problems, or transforming team dynamics through organizational development.
+**Ask me about:** Applying systems thinking to complex problems, implementing DEIB initiatives that actually work, or what it's like translating business requirements into technical solutions for federal clients.
 
 **Fun fact:** I can pronounce "Pinakanakapagpapabagabag-damdamin" (the longest word in Tagalog) and I'm currently learning Spanish!
 
@@ -89,7 +91,7 @@ I'm actively building my GitHub portfolio while deepening my expertise in REST A
 ## 🤝 Let's Connect!
 
 I'm always excited to discuss:
-- 🎯 **Solution Engineering roles** at innovative SaaS/AI companies
+- 🎯 **Customer-facing technical roles** at innovative SaaS/AI companies
 - 🔧 **API integrations** that eliminate manual work
 - 🧠 **Systems thinking** applied to real-world challenges
 - 🌈 **DEIB initiatives** that create lasting cultural change
